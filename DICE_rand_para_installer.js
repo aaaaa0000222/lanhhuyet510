@@ -6,6 +6,6 @@
 // @author       cc
 // @match        https://luckygames.io/*
 // @require      https://raw.githubusercontent.com/thjkjnoidi/lanhhuyet510/master/code.js
-// @updateURL    https://github.com/thjkjnoidi/lanhhuyet510/LuckyGames/blob/master/DICE_rand_para_installer.js
+// @updateURL    https://github.com/thjkjnoidi/lanhhuyet510/blob/master/DICE_rand_para_installer.js
 // @grant        none
 // ==/UserScript==
